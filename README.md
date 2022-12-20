@@ -1,11 +1,9 @@
-# ros_study
-ROS講習会用のソースファイル
 
-まずはgitをインストールし，本リポジトリを`clone`しておいてください．
+Install `git` and then `clone` this repository.
 
 ```bash
 $ sudo apt install git
-$ git clone https://github.com/takasehideki/ros_study.git
+$ git clone https://github.com/Abalizzw/ros2_demo1.git
 ```
 
 下記の項目はブランチ名に対応しています．
