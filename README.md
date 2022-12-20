@@ -16,9 +16,9 @@ Command `git checkout` when appropriate need to be confirmed.
 
 ## contents
 
-- `2`: Basic Mechanisms of ROS2[source code](./ros1_melodic)
+- `2`: Basic Mechanisms of ROS2 [source code](./ros1_melodic)
 
-- `4`: Programing with ROS2[source code](./ros2_dashing)
+- `4`: Programing with ROS2 [source code](./ros2_dashing)
 
 ## References
 
